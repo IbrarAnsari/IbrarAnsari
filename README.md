@@ -1,6 +1,5 @@
-### Here is What I'm Working On! 👋
+### Here is Who am I ? 👋
 
-Who am I ?
 
 - 🔭 I’m currently working on Savills India as Senior Analyst Programmer
 - 🌱 I’m currently learning React/React Native/Mongo DB & Node Js
