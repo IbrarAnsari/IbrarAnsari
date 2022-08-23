@@ -1,5 +1,7 @@
+![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header.gif)
 <h1 align="center">Hi 👋, I'm Ibrar Ansari (Imran What?)</h1>
 <h3 align="center">A passionate problem solver and who loves sharing what he knowns and always pursuing one step more from India</h3>
+<img align="right" alt="MERN Developer" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 - 🔭 I’m currently working on **Savills India as Senior Analyst Programmer**
 
